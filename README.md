@@ -20,4 +20,6 @@ On the client side, a dedicated thread continuously listens for messages from th
 The program is designed to be run in Eclipse IDE and supports multiple client connections in real-time. It demonstrates core networking concepts, thread management, and socket programming in Java.
 
 # OUTPUT
+## Client Console:
 
+## Server Console:
