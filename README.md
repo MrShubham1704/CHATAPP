@@ -21,5 +21,7 @@ The program is designed to be run in Eclipse IDE and supports multiple client co
 
 # OUTPUT
 ## Client Console:
+![Image](https://github.com/user-attachments/assets/ef42cb2f-086f-4956-9ac4-10aaac4c7248)
 
 ## Server Console:
+![Image](https://github.com/user-attachments/assets/300c079b-1878-4bd5-a0f9-ab3e209b5e80)
